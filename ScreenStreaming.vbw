@@ -1,0 +1,5 @@
+frmMain = 170, 216, 1474, 860, C, 11, 20, 1009, 682, C
+modThreadSupport = 219, 26, 1599, 818, C
+clsMemDC = 255, 58, 1507, 711, C
+modScreenCaptureReplay = 64, 27, 1473, 791, C
+modNetwork = 94, 86, 1478, 824, 
